@@ -4,14 +4,14 @@
  * and open the template in the editor.
  */
 
-package com.rk.proyectocursojavafundamentalsoracle;
+package Ejercicio1;
 
 /**
  * 
  * @author Daniel Bermeo
  */
-public class SqueakyToy extends Toy{
+public class ChewToy extends Toy{
     public void play(){
-        System.out.println("Is Squeaky Toy");
+        System.out.println("Is Chewy Toy");
     }
 }

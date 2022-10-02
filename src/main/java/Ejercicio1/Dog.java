@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.rk.proyectocursojavafundamentalsoracle;
+package Ejercicio1;
 
 /**
  * 
