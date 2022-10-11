@@ -12,10 +12,10 @@ package Ejercicio1;
  */
 public class Dog {
 
-    String name;
-    int weight;
-    Toy favoriteToy;
-    Toy myToy;
+    private String name;
+    private int weight;
+    private Toy favoriteToy;
+    private Toy myToy;
     
     public String getName(){
         return this.name;
